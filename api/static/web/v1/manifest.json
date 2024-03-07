@@ -1,5 +1,41 @@
 [
 {
+"channel":"astroSS1.my",
+"id":"astroSS1.my",
+"name":"ASTRO SUPERSPORT",
+"categories":["SPORTS"],
+"url":"my/astrossp0rts1.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",
+"country":"MY"
+}, 
+{
+"channel":"astroSS2.my",
+"id":"astroSS2.my",
+"name":"ASTRO SUPERSPORT 2",
+"categories":["SPORTS"],
+"url":"my/astrossp0rts2.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",
+"country":"MY"
+}, 
+{
+"channel":"astroSS3.my",
+"id":"astroSS3.my",
+"name":"ASTRO SUPERSPORT 3",
+"categories":["SPORTS"],
+"url":"my/astrossp0rts3.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png",
+"country":"MY"
+},
+{
+"channel":"astroSS4.my",
+"id":"astroSS4.my",
+"name":"ASTRO SUPERSPORT 4",
+"categories":["SPORTS"],
+"url":"my/astrossp0rts4.m3u8",
+"logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
+"country":"MY"
+},   
+{
 "channel":"tntS1.uk",
 "id":"tntS1.uk",
 "name":"TNT SPORTS 1",
@@ -34,5 +70,13 @@
 "url":"uk/tntsp0rts4.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/81twnr1689746183.png",
 "country":"UK"
+}, 
+"channel":"nowSportsPL.hk",
+"id":"nowSportsPL.hk",
+"name":"NOW SPORTS PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts1pl.m3u8",
+"logo":"https://i.imgur.com/l2dzMGa.png",
+"country":"HK"
 }
 ]  
