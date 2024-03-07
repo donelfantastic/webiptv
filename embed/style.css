@@ -1,0 +1,21 @@
+html, 
+    body {
+      position: relative;
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      border: 0;
+      background: #000000;
+      overflow: hidden;
+    }
+    
+  my-player {
+  position: absolute;
+  width: 100% !important;
+  height: 100% !important;
+  
+}
+    .bmpui-ui-watermark {
+      display: none;
+    }
