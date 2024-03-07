@@ -3,8 +3,5 @@
 #EXT-X-MEDIA-SEQUENCE:1136
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:12
-#EXT-X-I-FRAMES-ONLY
-#EXTINF:11.402000,
-http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1110622&extension=ts
 #EXTINF:10.011000,
 http://185.235.165.5/play/live.php?mac=00:1a:79:7f:3c:cb&stream=1110622&extension=ts
