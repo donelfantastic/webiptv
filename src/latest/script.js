@@ -283,7 +283,7 @@ window.addEventListener("load", function () {
 
           //var doNel = "https://donelfantastic.github.io/mn/embed/bitmuv/?live&url=";
           //var NellaKharisma = "https://donelfantastic.github.io:443/mn/embed/cloppr/?live&url=";
-          var embedV1 ="https://donelfantastic.github.io/live/embed/?live&url=";
+          var embedV1 ="https://donelfantastic.github.io/webiptv/embed/?live&url=";
           var deviceId = "deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj";   
           //output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><a class='open-video' style='text-decoration:none;' href='" + Dory + a[i].url + "?" + deviceId + "'><img src='//donelfantastic.github.io/assets/watchnow3.png' style='width:48px;height:auto;'/></a></center></td></tr>";
           output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><button class='btn'><a class='open-video' style='text-decoration:none;' href='" + embedV1 + a[i].url + "?" + deviceId + "'>WATCH NOW</a></button></center></td></tr>";
