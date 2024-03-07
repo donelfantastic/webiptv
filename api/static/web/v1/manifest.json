@@ -4,7 +4,7 @@
 "id":"tntS1.uk",
 "name":"TNT SPORTS 1",
 "categories":["SPORTS"],
-"url":"uk/tntsp0rts1-alt.m3u8",
+"url":"uk/tntsp0rts1.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/153ikz1689746051.png",
 "country":"UK"
 },
@@ -13,7 +13,7 @@
 "id":"tntS2.uk",
 "name":"TNT SPORTS 2",
 "categories":["SPORTS"],
-"url":"uk/tntsp0rts2-alt.m3u8",
+"url":"uk/tntsp0rts2.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/lzqo991689746090.png",
 "country":"UK"
 },
