@@ -36,6 +36,33 @@
 "country":"MY"
 },
 {
+"channel":"skysp0rtsME.uk",
+"id":"skysp0rtsME.uk",
+"name":"SKYSPORTS MAIN EVENT",
+"categories":["SPORTS"],
+"url":"uk/skysp0rtsME.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/mp44981502554837.png",
+"country":"UK"
+},
+{
+"channel":"skysp0rtsPL.uk",
+"id":"skysp0rtsPL.uk",
+"name":"SKYSPORTS PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"uk/skysp0rtsPL.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/7e2lv21502554825.png",
+"country":"UK"
+},
+{
+"channel":"skysp0rtsFB.uk",
+"id":"skysp0rtsFB.uk",
+"name":"SKYSPORTS FOOTBALL",
+"categories":["SPORTS"],
+"url":"uk/skysp0rtsFB.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/lnd1p01502554851.png",
+"country":"UK"
+},
+{
 "channel":"skyS1.nz",
 "id":"skyS1.nz",
 "name":"SKYSPORTS 1",
