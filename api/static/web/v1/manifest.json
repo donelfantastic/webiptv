@@ -259,5 +259,23 @@
 "url":"au/optussp0rts7.m3u8",
 "logo":"https://i.imgur.com/vDtIJvd.png",
 "country":"AU"
+},
+{
+"channel":"starSS1.in",
+"id":"starSS1.in",
+"name":"STARSPORTS SELECT 1",
+"categories":["SPORTS"],
+"url":"in/starsp0rtselect1.m3u8",
+"logo":"https://i.imgur.com/Mh9tKPx.png",
+"country":"IN"
+}, 
+{
+"channel":"starSS2.in",
+"id":"starSS2.in",
+"name":"STARSPORTS SELECT 2",
+"categories":["SPORTS"],
+"url":"in/starsp0rtselect2.m3u8",
+"logo":"https://i.imgur.com/FtRT73R.png",
+"country":"IN"
 }
 ]  
