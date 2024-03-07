@@ -34,7 +34,16 @@
 "url":"my/astrossp0rts4.m3u8",
 "logo":"https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png",
 "country":"MY"
-},   
+},
+{
+"channel":"skyS1.nz",
+"id":"skyS1.nz",
+"name":"SKYSPORTS 1",
+"categories":["SPORTS"],
+"url":"nz/tntsp0rts1.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/153ikz1689746051.png",
+"country":"NZ"
+},
 {
 "channel":"tntS1.uk",
 "id":"tntS1.uk",
@@ -71,12 +80,22 @@
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/81twnr1689746183.png",
 "country":"UK"
 }, 
-"channel":"nowSportsPL.hk",
-"id":"nowSportsPL.hk",
+{
+"channel":"nowS1PL.hk",
+"id":"nowS1PL.hk",
 "name":"NOW SPORTS PREMIER LEAGUE",
 "categories":["SPORTS"],
 "url":"hk/nowsp0rts1pl.m3u8",
 "logo":"https://i.imgur.com/l2dzMGa.png",
 "country":"HK"
+}, 
+{
+"channel":"optusS1.au",
+"id":"optusS1.au",
+"name":"OPTUS SPORTS 1",
+"categories":["SPORTS"],
+"url":"au/optussp0rts1.m3u8",
+"logo":"https://i.imgur.com/vDtIJvd.png",
+"country":"AU"
 }
 ]  
