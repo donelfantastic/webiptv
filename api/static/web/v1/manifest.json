@@ -1,0 +1,38 @@
+[
+{
+"channel":"tntS1.uk",
+"id":"tntS1.uk",
+"name":"TNT SPORTS 1",
+"categories":["SPORTS"],
+"url":"uk/tntsp0rts1.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/153ikz1689746051.png",
+"country":"UK"
+},
+{
+"channel":"tntS2.uk",
+"id":"tntS2.uk",
+"name":"TNT SPORTS 2",
+"categories":["SPORTS"],
+"url":"uk/tntsp0rts2.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/lzqo991689746090.png",
+"country":"UK"
+},
+{
+"channel":"tntS3.uk",
+"id":"tntS3.uk",
+"name":"TNT SPORTS 3",
+"categories":["SPORTS"],
+"url":"uk/tntsp0rts3.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/iwotea1701768457.png",
+"country":"UK"
+},
+{
+"channel":"tntS4.uk",
+"id":"tntS4.uk",
+"name":"TNT SPORTS 4",
+"categories":["SPORTS"],
+"url":"uk/tntsp0rts4.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/81twnr1689746183.png",
+"country":"UK"
+}
+]  
