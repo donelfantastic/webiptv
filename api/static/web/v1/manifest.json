@@ -40,8 +40,89 @@
 "id":"skyS1.nz",
 "name":"SKYSPORTS 1",
 "categories":["SPORTS"],
-"url":"nz/tntsp0rts1.m3u8",
+"url":"nz/skysp0rts1.m3u8",
 "logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS2.nz",
+"id":"skyS2.nz",
+"name":"SKYSPORTS 2",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts2.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS3.nz",
+"id":"skyS3.nz",
+"name":"SKYSPORTS 3",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts3.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS4.nz",
+"id":"skyS4.nz",
+"name":"SKYSPORTS 4",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts4.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS5.nz",
+"id":"skyS5.nz",
+"name":"SKYSPORTS 5",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts5.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS6.nz",
+"id":"skyS6.nz",
+"name":"SKYSPORTS 6",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts6.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS7.nz",
+"id":"skyS7.nz",
+"name":"SKYSPORTS 7",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts7.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS8.nz",
+"id":"skyS8.nz",
+"name":"SKYSPORTS 8",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts8.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_8_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skyS9.nz",
+"id":"skyS9.nz",
+"name":"SKYSPORTS 9",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts9.m3u8",
+"logo":"https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png",
+"country":"NZ"
+},
+{
+"channel":"skySPL.nz",
+"id":"skySPL.nz",
+"name":"SKYSPORTS PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"nz/skysp0rts8.m3u8",
+"logo":"https://i.imgur.com/2dsSm5m.png",
 "country":"NZ"
 },
 {
@@ -95,6 +176,60 @@
 "name":"OPTUS SPORTS 1",
 "categories":["SPORTS"],
 "url":"au/optussp0rts1.m3u8",
+"logo":"https://i.imgur.com/vDtIJvd.png",
+"country":"AU"
+},
+{
+"channel":"optusS2.au",
+"id":"optusS2.au",
+"name":"OPTUS SPORTS 2",
+"categories":["SPORTS"],
+"url":"au/optussp0rts2.m3u8",
+"logo":"https://i.imgur.com/0Y5VndY.png",
+"country":"AU"
+},
+{
+"channel":"optusS3.au",
+"id":"optusS3.au",
+"name":"OPTUS SPORTS 3",
+"categories":["SPORTS"],
+"url":"au/optussp0rts3.m3u8",
+"logo":"https://i.imgur.com/exP5K3m.png",
+"country":"AU"
+},
+{
+"channel":"optusS4.au",
+"id":"optusS4.au",
+"name":"OPTUS SPORTS 4",
+"categories":["SPORTS"],
+"url":"au/optussp0rts4.m3u8",
+"logo":"https://i.imgur.com/D2aJFAH.png",
+"country":"AU"
+},
+{
+"channel":"optusS5.au",
+"id":"optusS5.au",
+"name":"OPTUS SPORTS 5",
+"categories":["SPORTS"],
+"url":"au/optussp0rts5.m3u8",
+"logo":"https://i.imgur.com/EhwTWS4.png",
+"country":"AU"
+},
+{
+"channel":"optusS6.au",
+"id":"optusS6.au",
+"name":"OPTUS SPORTS 6",
+"categories":["SPORTS"],
+"url":"au/optussp0rts6.m3u8",
+"logo":"https://i.imgur.com/nbfURnY.png",
+"country":"AU"
+},
+{
+"channel":"optusS7.au",
+"id":"optusS7.au",
+"name":"OPTUS SPORTS 7",
+"categories":["SPORTS"],
+"url":"au/optussp0rts7.m3u8",
 "logo":"https://i.imgur.com/vDtIJvd.png",
 "country":"AU"
 }
