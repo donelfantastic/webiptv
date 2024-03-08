@@ -254,10 +254,19 @@
 {
 "channel":"nowS1PL.hk",
 "id":"nowS1PL.hk",
-"name":"NOW SPORTS PREMIER LEAGUE",
+"name":"NOWSPORTS PREMIER LEAGUE 1",
 "categories":["SPORTS"],
 "url":"hk/nowsp0rts1pl.m3u8",
 "logo":"https://i.imgur.com/l2dzMGa.png",
+"country":"HK"
+},
+{
+"channel":"nowS2PL.hk",
+"id":"nowS2PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 2",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts2pl.m3u8",
+"logo":"https://i.imgur.com/yVCWN1c.png",
 "country":"HK"
 },
 {
