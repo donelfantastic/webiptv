@@ -189,15 +189,6 @@
 "country":"UK"
 }, 
 {
-"channel":"nowS1PL.hk",
-"id":"nowS1PL.hk",
-"name":"NOW SPORTS PREMIER LEAGUE",
-"categories":["SPORTS"],
-"url":"hk/nowsp0rts1pl-alt.m3u8",
-"logo":"https://i.imgur.com/l2dzMGa.png",
-"country":"HK"
-}, 
-{
 "channel":"optusS1.au",
 "id":"optusS1.au",
 "name":"OPTUS SPORTS 1",
@@ -259,6 +250,15 @@
 "url":"au/optussp0rts7.m3u8",
 "logo":"https://i.imgur.com/vDtIJvd.png",
 "country":"AU"
+},
+{
+"channel":"nowS1PL.hk",
+"id":"nowS1PL.hk",
+"name":"NOW SPORTS PREMIER LEAGUE",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts1pl.m3u8",
+"logo":"https://i.imgur.com/l2dzMGa.png",
+"country":"HK"
 },
 {
 "channel":"starSS1.in",
