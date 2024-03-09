@@ -270,6 +270,24 @@
 "country":"HK"
 },
 {
+"channel":"nowS1.hk",
+"id":"nowS1.hk",
+"name":"NOWSPORTS 1",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts1.m3u8",
+"logo":"https://i.imgur.com/3BbhTQX.png",
+"country":"HK"
+},
+{
+"channel":"nowS2.hk",
+"id":"nowS2.hk",
+"name":"NOWSPORTS 2",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts2.m3u8",
+"logo":"https://i.imgur.com/wkmjtNT.png",
+"country":"HK"
+},
+{
 "channel":"starSS1.in",
 "id":"starSS1.in",
 "name":"STARSPORTS SELECT 1",
