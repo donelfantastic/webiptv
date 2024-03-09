@@ -17,13 +17,17 @@
 </head>
 <body oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
   <div class="container video-fill" data-shaka-player-container style="position: absolute;z-index: -1;top: 0;left: 0;width: 100%;height: 100%;object-fit: fill cover;">
+    <div data-shaka-player-container
+           data-shaka-player-cast-receiver-id="BBED8D28">
     <video id="video" data-shaka-player autoplay poster="//donelfantastic.github.io/assets/poster.gif"></video>
   </div>
+</div>
 </body>
 <script type="text/javascript" src="histats.min.js"></script>
 <script type="text/javascript" src="script.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.6/shaka-player.ui.min.js" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mux.js/6.3.0/mux.min.js" crossorigin="anonymous"></script>
+<script defer src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js"></script>  
 <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.3.6/shaka-player.compiled.js" crossorigin="anonymous"></script>
 <script disable-devtool-auto src="https://cdn.jsdelivr.net/npm/disable-devtool"></script>  
 </html>
