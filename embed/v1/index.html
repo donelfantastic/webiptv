@@ -12,7 +12,7 @@
   <meta name="referrer" content="no-referrer">
   <meta name="robots" content="noindex" />
   <link rel="stylesheet" href="style.css"/>
-  <script type="text/javascript" src="script.js"></script>
+  <!--<script type="text/javascript" src="script.js"></script>-->
 </head>
 <body>
 <body oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
@@ -23,6 +23,8 @@
 <script type="text/javascript" src="//cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script type="text/javascript">
 document.addEventListener("DOMContentLoaded", () => {
+const currentLocation = window.location.search;
+const sURL = currentLocation.replace("?live&url=", "");
 const video = document.querySelector("#my-player");
 if (video.canPlayType("application/vnd.apple.mpegurl")) {
   video.src = sURL;
