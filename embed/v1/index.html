@@ -15,28 +15,12 @@
   <script type="text/javascript" src="script.js"></script>
 </head>
 <body>
-<!--<body oncontextmenu="return false" onkeydown="return false" onmousedown="return false">-->
+<body oncontextmenu="return false" onkeydown="return false" onmousedown="return false">
  <div class="container video-fill" data-shaka-player-container style="position: absolute;z-index: -1;top: 0;left: 0;width: 100%;height: 100%;object-fit: fill cover;">
-<video id="my-player" muted autoplay controls crossorigin="anonymous"></video></div>
+<video id="my-player" preload="true" controls crossorigin="anonymous"></video></div>
 </body>
-<!--<script type="text/javascript" src="histats.min.js"></script>-->
+<script type="text/javascript" src="histats.min.js"></script>
 <script type="text/javascript" src="//cdn.jsdelivr.net/npm/hls.js@latest"></script>
-<script type="text/javascript">
-document.addEventListener("DOMContentLoaded", () => {
-const video = document.querySelector("#my-player");
-if (video.canPlayType("application/vnd.apple.mpegurl")) {
-  video.src = "https://donelfantastic.github.io/webiptv/web/" + sURL;
-} else if (Hls.isSupported()) {
-  const hls = new Hls({
-    maxBufferSize: 1 * 1000,
-  });
-  hls.loadSource(src);
-  hls.attachMedia(video);
-} else {
-  console.error(
-    "This is a legacy browser that doesn't support Media Source Extensions"
-  );
-}
-});
+<script disable-devtool-auto src="https://cdn.jsdelivr.net/npm/disable-devtool"></script>  
 </script>
 </html>
