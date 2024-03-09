@@ -23,9 +23,10 @@
 <script type="text/javascript" src="//cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script type="text/javascript">
 document.addEventListener("DOMContentLoaded", () => {
+const BASE ="//donelfantastic.github.io/webiptv/web/";
 const video = document.querySelector("#my-player");
 if (video.canPlayType("application/vnd.apple.mpegurl")) {
-  video.src ="//donelfantastic.github.io/webiptv/web/" + sURL;
+  video.src = BASE + sURL;
 } else if (Hls.isSupported()) {
   const hls = new Hls({
     maxBufferSize: 1 * 1000,
