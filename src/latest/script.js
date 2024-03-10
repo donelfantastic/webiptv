@@ -280,10 +280,9 @@ window.addEventListener("load", function () {
           f !== "Iran"
         ) {
           b++;
-          var embedV1 ="https://donelfantastic.github.io/webiptv/embed/v1/?live&url=";
+          var embedV ="https://donelfantastic.github.io/webiptv/embed/v3/?live&url=";
           var deviceId = "deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj";   
-          //output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><a class='open-video' style='text-decoration:none;' href='" + Dory + a[i].url + "?" + deviceId + "'><img src='//donelfantastic.github.io/assets/watchnow3.png' style='width:48px;height:auto;'/></a></center></td></tr>";
-          output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><button class='btn'><a class='open-video' style='text-decoration:none;' href='" + embedV1 + a[i].url + "?" + deviceId + "'>WATCH NOW</a></button></center></td></tr>";
+          output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><button class='btn'><a class='open-video' style='text-decoration:none;' href='" + embedV + a[i].url + "?" + deviceId + "'>WATCH NOW</a></button></center></td></tr>";
         }
       }
       output += "</tbody></table>";
@@ -303,13 +302,13 @@ window.addEventListener("load", function () {
         });
       });
       
- /*     
+ //    
       var n =
         "<br><span style='color:#000;'>Total Found: <strong style='color:#ff0000;'>" +
         b +
         "</strong> channels.</span><br/><span style='color:#000;'>You can search by channel name, category, country or language! </span>";
       o.html(n);
-*/
+ //
       p.html(output);
       $("table").addClass("table");
       $("#myTable").DataTable();
