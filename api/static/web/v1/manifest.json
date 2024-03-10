@@ -63,6 +63,24 @@
 "country":"UK"
 },
 {
+"channel":"skysp0rtsTE.de",
+"id":"skysp0rtsTE.de",
+"name":"SKYSPORTS TOP EVENT",
+"categories":["SPORTS"],
+"url":"de/skysp0rtsTE.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/tiny/r14o5i1658662835.png",
+"country":"DE"
+},
+{
+"channel":"skysp0rtsCC.it",
+"id":"skysp0rtsCC.it",
+"name":"SKYSPORTS CALCIO",
+"categories":["SPORTS"],
+"url":"it/skysp0rtsCC.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/tiny/70ud6o1656963115.png",
+"country":"IT"
+},
+{
 "channel":"usaNetE.us",
 "id":"usaNetE.us",
 "name":"USA NETWORK (EAST)",
