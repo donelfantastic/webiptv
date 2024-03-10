@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background-color: #000000;
+  overflow: hidden;
+}
+
+video {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.video-fill {
+  object-fit: fill cover;
+}
