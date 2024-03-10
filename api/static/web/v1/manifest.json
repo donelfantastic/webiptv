@@ -63,6 +63,24 @@
 "country":"UK"
 },
 {
+"channel":"usaNetE.us",
+"id":"usaNetE.us",
+"name":"USA NETWORK (EAST)",
+"categories":["SPORTS"],
+"url":"us/usanetw0rk-east.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/tiny/yswxwr1433432126.png",
+"country":"US"
+},
+{
+"channel":"usaNetW.us",
+"id":"usaNetW.us",
+"name":"USA NETWORK (WEST)",
+"categories":["SPORTS"],
+"url":"us/usanetw0rk-west.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/tiny/yswxwr1433432126.png",
+"country":"US"
+},
+{
 "channel":"skyS1.nz",
 "id":"skyS1.nz",
 "name":"SKYSPORTS 1",
