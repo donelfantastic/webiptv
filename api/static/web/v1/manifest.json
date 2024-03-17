@@ -223,7 +223,16 @@
 "url":"uk/tntsp0rts4.m3u8",
 "logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/81twnr1689746183.png",
 "country":"UK"
-}, 
+},
+{
+"channel":"itv1.uk",
+"id":"itv1.uk",
+"name":"ITV",
+"categories":["SPORTS"],
+"url":"uk/itv1-alt.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/tvlogo/rqyvqs1433964177.png",
+"country":"UK"
+},
 {
 "channel":"optusS1.au",
 "id":"optusS1.au",
