@@ -351,6 +351,33 @@
 "country":"HK"
 },
 {
+"channel":"hubpremS1.sg",
+"id":"hubpremS1.sg",
+"name":"HUB PREMIER 1",
+"categories":["SPORTS"],
+"url":"sg/hubpremSp0rts1.m3u8",
+"logo":"https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS2.sg",
+"id":"hubpremS2.sg",
+"name":"HUB PREMIER 2",
+"categories":["SPORTS"],
+"url":"sg/hubpremSp0rts2.m3u8",
+"logo":"https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png",
+"country":"SG"
+},
+{
+"channel":"hubpremS3.sg",
+"id":"hubpremS3.sg",
+"name":"HUB PREMIER 3",
+"categories":["SPORTS"],
+"url":"sg/hubpremSp0rts3.m3u8",
+"logo":"https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png",
+"country":"SG"
+}, 
+{
 "channel":"starSS1.in",
 "id":"starSS1.in",
 "name":"STARSPORTS SELECT 1",
