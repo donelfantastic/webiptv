@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>SIMPLE IPTV LINK CHECKER</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container-fluid">
+<h3>IPTV LINK CHECKER</h3>
+  <p class="lead">Grab Xtream IPTV Account Info, Categories & All Available Live Streaming Channel</p>
+  <form name="main" action="#">
+  <div class="form-group">
+      <label for="textInput">LINK INPUT</label>
+       <input type="text" id="iptvLink" placeholder="http://myiptv.com:80/fantastic/qwerty123/1111"></div>
+  <button type="button" onclick="convertLinks()" class="btn btn-primary btn-sm">GENERATE</button><span><input class="btn btn-danger btn-sm" type="button" id="Clear" value="Clear URL" onClick="Clear_iptvLink()" title="Clear URL"></span>
+</form>
+
+ <div id="result">
+ <label for="textOutput">RESULTS</label>
+ <p id="Link1"></p>
+ <p id="Link2"></p>
+ <p id="Link3"></p>
+ <p id="Link4"></p>
+ <p id="Link5"></p>
+ </div>
+ </div>
+<script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js'></script>
+  <script  src="script.js"></script>
+</body>
+</html>
