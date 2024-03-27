@@ -324,6 +324,33 @@
 "country":"HK"
 },
 {
+"channel":"nowS4PL.hk",
+"id":"nowS4PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 4",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts4pl.m3u8",
+"logo":"https://i.imgur.com/evqQoh9.png",
+"country":"HK"
+},
+{
+"channel":"nowS5PL.hk",
+"id":"nowS5PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 5",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts5pl.m3u8",
+"logo":"https://i.imgur.com/eAsPUx2.png",
+"country":"HK"
+},
+{
+"channel":"nowS6PL.hk",
+"id":"nowS6PL.hk",
+"name":"NOWSPORTS PREMIER LEAGUE 6",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts6pl.m3u8",
+"logo":"https://i.imgur.com/q2GQzb9.png",
+"country":"HK"
+},
+{
 "channel":"nowS1.hk",
 "id":"nowS1.hk",
 "name":"NOWSPORTS 1",
@@ -355,7 +382,7 @@
 "id":"hubpremS1.sg",
 "name":"HUB PREMIER 1",
 "categories":["SPORTS"],
-"url":"sg/hubpremSp0rts1.m3u8",
+"url":"sg/hubpremsp0rts1.m3u8",
 "logo":"https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png",
 "country":"SG"
 },
@@ -364,7 +391,7 @@
 "id":"hubpremS2.sg",
 "name":"HUB PREMIER 2",
 "categories":["SPORTS"],
-"url":"sg/hubpremSp0rts2.m3u8",
+"url":"sg/hubpremsp0rts2.m3u8",
 "logo":"https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png",
 "country":"SG"
 },
@@ -373,7 +400,7 @@
 "id":"hubpremS3.sg",
 "name":"HUB PREMIER 3",
 "categories":["SPORTS"],
-"url":"sg/hubpremSp0rts3.m3u8",
+"url":"sg/hubpremsp0rts3.m3u8",
 "logo":"https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png",
 "country":"SG"
 }, 
