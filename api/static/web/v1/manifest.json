@@ -351,6 +351,15 @@
 "country":"HK"
 },
 {
+"channel":"nowS4k.hk",
+"id":"nowS4k.hk",
+"name":"NOWSPORTS 4K",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts4k.m3u8",
+"logo":"https://i.imgur.com/D0GgEQR.png",
+"country":"HK"
+},
+{
 "channel":"nowS1.hk",
 "id":"nowS1.hk",
 "name":"NOWSPORTS 1",
@@ -378,6 +387,42 @@
 "country":"HK"
 },
 {
+"channel":"nowS4.hk",
+"id":"nowS4.hk",
+"name":"NOWSPORTS 4",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts4.m3u8",
+"logo":"https://i.imgur.com/VzQp0ek.png",
+"country":"HK"
+},
+{
+"channel":"nowS5.hk",
+"id":"nowS5.hk",
+"name":"NOWSPORTS 5",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts5.m3u8",
+"logo":"https://i.imgur.com/qH25e4C.png",
+"country":"HK"
+},
+{
+"channel":"nowS6.hk",
+"id":"nowS6.hk",
+"name":"NOWSPORTS 6",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts6.m3u8",
+"logo":"https://i.imgur.com/oK9L6ni.png",
+"country":"HK"
+},
+{
+"channel":"nowS7.hk",
+"id":"nowS7.hk",
+"name":"NOWSPORTS 7",
+"categories":["SPORTS"],
+"url":"hk/nowsp0rts7.m3u8",
+"logo":"https://i.imgur.com/DySwf7S.png",
+"country":"HK"
+},
+{
 "channel":"hubpremS1.sg",
 "id":"hubpremS1.sg",
 "name":"HUB PREMIER 1",
@@ -392,7 +437,7 @@
 "name":"HUB PREMIER 2",
 "categories":["SPORTS"],
 "url":"sg/hubpremsp0rts2.m3u8",
-"logo":"https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png",
+"logo":"https://i.imgur.com/mrZwamR.png",
 "country":"SG"
 },
 {
@@ -401,7 +446,7 @@
 "name":"HUB PREMIER 3",
 "categories":["SPORTS"],
 "url":"sg/hubpremsp0rts3.m3u8",
-"logo":"https://poster.starhubgo.com/Linear_Channels2/203_1920x1080_HTV.png",
+"logo":"https://i.imgur.com/0A6bP0g.png",
 "country":"SG"
 }, 
 {
