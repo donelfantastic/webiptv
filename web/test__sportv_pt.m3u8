@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3 
 #EXT-X-MEDIA-SEQUENCE:3284 
 #EXT-X-TARGETDURATION:5 
-#EXT-X-KEY: URI="https://forgepattern.net/", KEYFORMAT="referer"
+#EXT-X-KEY: URI="https://forgepattern.net/", KEYFORMAT="identity"
 #EXTINF:2.367, 
 https://z3rnwqky5vt8mh2ufjpb4c.cdnministry.net:8443/hls/xt4p2tyjgzsp4t/xt4p2tyjgzsp4t-501320340.ts 
 #EXTINF:2.133, 
