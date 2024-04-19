@@ -2,17 +2,4 @@
 #EXT-X-TARGETDURATION:10 
 #EXT-X-VERSION:3 
 #EXT-X-MEDIA-SEQUENCE:21376 
-#EXT-X-PROGRAM-DATE-TIME:2024-04-16T22:46:42.658Z 
-#EXT-X-KEY:METHOD=AES-128,IV=0x303030303030303030303030661eca07,URI="https://key.onlinehdhls.ru/wmsxx.php?name=premium90&number=1",KEYFORMAT="identity" 
 #EXTINF:10.000, 
-https://salamus2023.onlinehdhls.ru/ddh2/premium90/tracks-v1a1/2024/04/16/22/46/42-10000.ts 
-#EXTINF:10.000, 
-https://salamus2023.onlinehdhls.ru/ddh2/premium90/tracks-v1a1/2024/04/16/22/46/52-10000.ts 
-#EXTINF:10.000, 
-https://salamus2023.onlinehdhls.ru/ddh2/premium90/tracks-v1a1/2024/04/16/22/47/02-10000.ts 
-#EXTINF:10.000, 
-https://salamus2023.onlinehdhls.ru/ddh2/premium90/tracks-v1a1/2024/04/16/22/47/12-10000.ts 
-#EXTINF:10.000, 
-https://salamus2023.onlinehdhls.ru/ddh2/premium90/tracks-v1a1/2024/04/16/22/47/22-10000.ts 
-#EXTINF:10.000, 
-https://salamus2023.onlinehdhls.ru/ddh2/premium90/tracks-v1a1/2024/04/16/22/47/32-10000.ts
