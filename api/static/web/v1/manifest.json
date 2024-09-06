@@ -36,6 +36,15 @@
 "country":"MY"
 },
 {
+"channel":"play1Sports.be",
+"id":"play1Sports.be",
+"name":"PLAY SPORTS 1",
+"categories":["SPORTS"],
+"url":"be/play1Sports.m3u8",
+"logo":"https://i.imgur.com/E2wVMVk.jpeg",
+"country":"MY"
+}, 
+{
 "channel":"skysp0rtsME.uk",
 "id":"skysp0rtsME.uk",
 "name":"SKYSPORTS MAIN EVENT",
