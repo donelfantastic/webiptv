@@ -42,8 +42,26 @@
 "categories":["SPORTS"],
 "url":"be/play1Sports.m3u8",
 "logo":"https://i.imgur.com/E2wVMVk.jpeg",
-"country":"MY"
-}, 
+"country":"BE"
+},
+{
+"channel":"play2Sports.be",
+"id":"play2Sports.be",
+"name":"PLAY SPORTS 2",
+"categories":["SPORTS"],
+"url":"be/play2Sports.m3u8",
+"logo":"https://i.imgur.com/E2wVMVk.jpeg",
+"country":"BE"
+},
+  {
+"channel":"play3Sports.be",
+"id":"play3Sports.be",
+"name":"PLAY SPORTS 3",
+"categories":["SPORTS"],
+"url":"be/play3Sports.m3u8",
+"logo":"https://i.imgur.com/E2wVMVk.jpeg",
+"country":"BE"
+},
 {
 "channel":"skysp0rtsME.uk",
 "id":"skysp0rtsME.uk",
