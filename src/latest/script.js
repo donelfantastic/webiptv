@@ -280,9 +280,9 @@ window.addEventListener("load", function () {
           f !== "Iran"
         ) {
           b++;
-          var embedV ="//donelfantastic.github.io/webiptv/embed/v3/?live&url=";
+          var embedV ="https://donelfantastic.github.io/webiptv/embed/v3/?live&url=";
           var deviceId = "deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj";   
-          output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><button class='btn'><a class='open-video' style='text-decoration:none;' href='" + embedV + a[i].url + "?" + deviceId + "'>WATCH NOW</a></button></center></td></tr>";
+          output += "<tr><td><center><img width='64' src='" + a[i].logo + "'/></center></td><td>" + a[i].name + "</td><td style='display:none;'>" + d + "</td><td><center><button class='btn'><a class='open-video' style='text-decoration:none;' href='"https://donelfantastic.github.io/webiptv/embed/v3/?live&url=" + a[i].url + "?" + deviceId + "'>WATCH NOW</a></button></center></td></tr>";
         }
       }
       output += "</tbody></table>";
