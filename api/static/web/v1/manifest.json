@@ -68,7 +68,7 @@
 "name":"SKYSPORTS MAIN EVENT",
 "categories":["SPORTS"],
 "url":"uk/skysp0rtsME.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/mp44981502554837.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/mp44981502554837.png",
 "country":"UK"
 },
 {
@@ -77,7 +77,7 @@
 "name":"SKYSPORTS PREMIER LEAGUE",
 "categories":["SPORTS"],
 "url":"uk/skysp0rtsPL.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/7e2lv21502554825.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/7e2lv21502554825.png",
 "country":"UK"
 },
 {
@@ -86,7 +86,7 @@
 "name":"SKYSPORTS FOOTBALL",
 "categories":["SPORTS"],
 "url":"uk/skysp0rtsFB.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/lnd1p01502554851.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/lnd1p01502554851.png",
 "country":"UK"
 },
 {
@@ -95,7 +95,7 @@
 "name":"SKYSPORTS TOP EVENT",
 "categories":["SPORTS"],
 "url":"de/skysp0rtsTE.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/tiny/r14o5i1658662835.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/tiny/r14o5i1658662835.png",
 "country":"DE"
 },
 {
@@ -104,7 +104,7 @@
 "name":"SKYSPORTS CALCIO",
 "categories":["SPORTS"],
 "url":"it/skysp0rtsCC.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/tiny/70ud6o1656963115.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/tiny/70ud6o1656963115.png",
 "country":"IT"
 },
 {
@@ -113,7 +113,7 @@
 "name":"USA NETWORK (EAST)",
 "categories":["SPORTS"],
 "url":"us/usanetw0rk-east.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/tiny/yswxwr1433432126.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/tiny/yswxwr1433432126.png",
 "country":"US"
 },
 {
@@ -122,7 +122,7 @@
 "name":"USA NETWORK (WEST)",
 "categories":["SPORTS"],
 "url":"us/usanetw0rk-west.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/tiny/yswxwr1433432126.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/tiny/yswxwr1433432126.png",
 "country":"US"
 },
 {
@@ -221,7 +221,7 @@
 "name":"TNT SPORTS 1",
 "categories":["SPORTS"],
 "url":"uk/tntsp0rts1.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/153ikz1689746051.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/channel/logo/153ikz1689746051.png",
 "country":"UK"
 },
 {
@@ -230,7 +230,7 @@
 "name":"TNT SPORTS 2",
 "categories":["SPORTS"],
 "url":"uk/tntsp0rts2.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/lzqo991689746090.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/channel/logo/lzqo991689746090.png",
 "country":"UK"
 },
 {
@@ -239,7 +239,7 @@
 "name":"TNT SPORTS 3",
 "categories":["SPORTS"],
 "url":"uk/tntsp0rts3.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/iwotea1701768457.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",
 "country":"UK"
 },
 {
@@ -248,7 +248,16 @@
 "name":"TNT SPORTS 4",
 "categories":["SPORTS"],
 "url":"uk/tntsp0rts4.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/channel/tvlogo/81twnr1689746183.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",
+"country":"UK"
+},
+{
+"channel":"tntS5.uk",
+"id":"tntS5.uk",
+"name":"TNT SPORTS 5",
+"categories":["SPORTS"],
+"url":"uk/tntsp0rts5.m3u8",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/za5ba01689746204.png",
 "country":"UK"
 },
 {
@@ -257,7 +266,7 @@
 "name":"ITV",
 "categories":["SPORTS"],
 "url":"uk/itv1-alt.m3u8",
-"logo":"https://www.thesportsdb.com/images/media/tvlogo/rqyvqs1433964177.png",
+"logo":"https://www.thesportsdb.com/images/media/channel/logo/rqyvqs1433964177.png",
 "country":"UK"
 },
 {
