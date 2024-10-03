@@ -4,8 +4,8 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.120000,
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/61_0.ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/81_0.ts
 #EXTINF:10.000000,
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/61_1.ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/81_1.ts
 #EXTINF:10.000000,
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/61_2.ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/81_2.ts
