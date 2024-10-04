@@ -4,8 +4,8 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.120000,
-https://worldradio.online/proxy/?q=mytv-extra.com:80/live/t12mgxyb335/9832948789/28015_0.ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/28015_0.ts
 #EXTINF:10.000000,
-https://worldradio.online/proxy/?q=mytv-extra.com:80/live/t12mgxyb335/9832948789/28015_1.ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/28015_1.ts
 #EXTINF:10.000000,
-https://worldradio.online/proxy/?q=mytv-extra.com:80/live/t12mgxyb335/9832948789/28015_2.ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/28015_2.ts
