@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:1
+#EXTINF:10.000000,
+https://cors-proxy.cooks.fyi/mohdtv.com:8880/live/voby3837/28337929/2877.ts
+#EXT-X-ENDLIST
+
+#EXTINF:10.000000, tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/7e2lv21502554825.png" tvg-name="" group-title="Football Live Event",SkySports Premier League
+https://cors-proxy.cooks.fyi/mohdtv.com:8880/live/voby3837/28337929/2877.ts
