@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-TARGETDURATION:1
+#EXT-X-TARGETDURATION:11
 #EXTINF:10.000000,
-https://cors-proxy.cooks.fyi/mohdtv.com:8880/live/voby3837/28337929/2881.ts
+https://cors-proxy.cooks.fyi/mohdtv.com:8880/voby3837/28337929/2881
 #EXT-X-ENDLIST
