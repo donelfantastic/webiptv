@@ -4,9 +4,8 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:11
 #EXTINF:10.120000,
-https://cors-proxy.cooks.fyi/mohdtv.com:8880/live/voby3837/28337929/2881_0.ts
+https://cors.tundracast.com/mohdtv.com:8880/live/voby3837/28337929/2881_0.ts
 #EXTINF:10.000000,
-https://cors-proxy.cooks.fyi/mohdtv.com:8880/live/voby3837/28337929/2881_1.ts
+https://cors.tundracast.com/mohdtv.com:8880/live/voby3837/28337929/2881_1.ts
 #EXTINF:10.000000,
-https://cors-proxy.cooks.fyi/mohdtv.com:8880/live/voby3837/28337929/2881_2.ts
-#EXT-X-ENDLIST
+https://cors.tundracast.com/mohdtv.com:8880/live/voby3837/28337929/2881_2.ts
