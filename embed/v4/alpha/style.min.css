@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  font-family: "Oswald", sans-serif;
+  font-size: 18px;
+}
+
+.video-section {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  position: relative;
+  margin-bottom: 0em;
+  overflow: hidden;
+}
+
+.video-responsive {
+  padding-bottom: 56.25%;
+}
+
+#player {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  height: 100% !important;
+  width: 100% !important;
+  border: 0;
+}
+
+.video-js .vjs-loading-spinner {
+  border-color: rgba(107, 0, 255, 0.79);
+}
