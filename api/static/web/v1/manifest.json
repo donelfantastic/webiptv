@@ -4,7 +4,7 @@
 "id":"astroSupersp0rts.my",
 "name":"ASTRO PREMIER LEAGUE",
 "categories":["SPORTS"],
-"url":"",
+"url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571245&extension=ts",
 "logo":"https://r2.thesportsdb.com/images/media/channel/logo/g0g6p61731234018.png",
 "country":"MY"
 }, 
@@ -13,7 +13,7 @@
 "id":"astroSupersp0rts2.my",
 "name":"ASTRO PREMIER LEAGUE 2",
 "categories":["SPORTS"],
-"url":"",
+"url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571248&extension=m3u8",
 "logo":"https://r2.thesportsdb.com/images/media/channel/logo/bk9vbh1731234210.png",
 "country":"MY"
 }, 
@@ -22,7 +22,7 @@
 "id":"astroSupersp0rts3.my",
 "name":"ASTRO GRANDSTAND",
 "categories":["SPORTS"],
-"url":"",
+"url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571247&extension=m3u8",
 "logo":"https://r2.thesportsdb.com/images/media/channel/logo/mwtc9p1731234887.png",
 "country":"MY"
 },
@@ -31,7 +31,7 @@
 "id":"astroSupersp0rts4.my",
 "name":"ASTRO FOOTBALL",
 "categories":["SPORTS"],
-"url":"",
+"url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=571246&extension=m3u8",
 "logo":"https://r2.thesportsdb.com/images/media/channel/logo/necgva1731235994.png",
 "country":"MY"
 },
@@ -202,7 +202,7 @@
 "id":"tntSp0rts2.uk",
 "name":"TNT SPORTS 2",
 "categories":["SPORTS"],
-"url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=79485&extension=m3u8",
+"url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=79485&extension=ts",
 "logo":"https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png",
 "country":"UK"
 },
@@ -211,7 +211,7 @@
 "id":"tntSp0rts3.uk",
 "name":"TNT SPORTS 3",
 "categories":["SPORTS"],
-"url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=79484&extension=m3u8",
+"url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=79484&extension=ts",
 "logo":"https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png",
 "country":"UK"
 },
@@ -220,7 +220,7 @@
 "id":"tntSp0rts4.uk",
 "name":"TNT SPORTS 4",
 "categories":["SPORTS"],
-"url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1002857&extension=m3u8",
+"url":"http://tv.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A1:D6:6C&stream=1002857&extension=ts",
 "logo":"https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png",
 "country":"UK"
 },
