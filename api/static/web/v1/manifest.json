@@ -1,5 +1,23 @@
 [
 {
+"channel":"usaNetworkEast.us",
+"id":"usaNetworkEast.us",
+"name":"USA NETWORK",
+"categories":["SPORTS"],
+"url":"https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/yswxwr1433432126.png",
+"country":"US"
+},
+{
+"channel":"tntSp0rts.uk",
+"id":"tntSp0rts.uk",
+"name":"TNT SPORTS",
+"categories":["SPORTS"],
+"url":"https://tvsen6.aynaott.com/TntSports1HD/index.m3u8",
+"logo":"https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png",
+"country":"UK"
+},  
+{
 "channel":"nowPremierSp0rts.hk",
 "id":"nowPremierSp0rts.hk",
 "name":"NOW PREMIER LEAGUE",
