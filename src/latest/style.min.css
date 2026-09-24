@@ -579,7 +579,7 @@ span {
   height: 100%;
   object-fit: contain;
 }
-
+/*
 .player-panel .video-js .vjs-big-play-button {
   top: 50%;
   left: 50%;
@@ -594,7 +594,7 @@ span {
 .player-panel .video-js:hover .vjs-big-play-button {
   background: #7d20ff;
 }
-
+*/
 @keyframes playerOpen {
   from {
     opacity: 0;
@@ -619,8 +619,7 @@ span {
   }
 
   .now-playing {
-    //max-width: 55%;
-    max-width: 100%;
+    max-width: 55%;
     flex: 1;
     font-size: 14px;
     overflow: hidden;
@@ -637,7 +636,7 @@ span {
   width: 100% !important;
   height: 100% !important;
 }
-
+/*
 .video-js .vjs-big-play-button {
   top: 50%;
   left: 50%;
@@ -652,7 +651,7 @@ span {
 .video-js:hover .vjs-big-play-button {
   background: #7d20ff;
 }
-
+*/
 @keyframes playerSlideIn {
   from {
     opacity: 0;
@@ -795,6 +794,11 @@ span {
   font-size: 10px;
 }
 
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
 .channel-playing {
   position: absolute;
   top: 6px;
@@ -802,6 +806,7 @@ span {
   color: #fff;
   font-size: 11px;
   font-weight: bold;
+  animation: blink 1s infinite;
 }
 
 @media (max-width: 576px) {
