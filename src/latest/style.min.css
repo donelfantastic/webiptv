@@ -521,7 +521,7 @@ span {
   min-height: 42px;
   margin-bottom: 12px;
 }
-
+/*
 .btn {
   background: transparent;
   border: none;
@@ -537,7 +537,7 @@ span {
 .btn:hover {
   transform: scale(1.15);
 }
-
+*/
 .now-playing {
   max-width: 70%;
   overflow: hidden;
