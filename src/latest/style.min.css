@@ -550,7 +550,7 @@ span {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-/*
+
 .player-panel .video-section {
   position: relative;
   width: min(100%, 1100px);
@@ -563,12 +563,12 @@ span {
   background: #000;
   border-radius: 12px;
 }
-*/
+/*
 .player-panel .video-responsive {
   aspect-ratio: 16 / 9;
   padding-bottom: 0;
 }
-
+*/
 .player-panel #player,
 .player-panel .video-js {
   position: relative !important;
