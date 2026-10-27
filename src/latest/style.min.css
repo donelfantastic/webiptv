@@ -569,8 +569,8 @@ span {
 .player-panel .video-section {
   position: relative;
   width: min(100%, 1100px);
-  /*aspect-ratio: 16 / 9;
-  height: auto;
+  aspect-ratio: 16 / 9;
+  /*height: auto;
   min-height: 0;
   margin: auto;
   padding: 0;*/
