@@ -555,6 +555,7 @@ span {
 }
 */
 
+/*
 .now-playing {
   max-width: 70%;
   overflow: hidden;
@@ -565,7 +566,7 @@ span {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-/*
+
 .player-panel .video-section {
   position: relative;
   width: min(100%, 1100px);
@@ -582,7 +583,7 @@ span {
   aspect-ratio: 16 / 9;
   padding-bottom: 0;
 }
-*/
+
   
 .player-panel #player,
 .player-panel .video-js {
@@ -597,6 +598,7 @@ span {
   height: 100%;
   object-fit: contain;
 }
+*/
 
 /*
 .player-panel .video-js .vjs-big-play-button {
@@ -615,6 +617,76 @@ span {
 }
 */
 
+.now-playing {
+  max-width: 70%;
+  overflow: hidden;
+  text-transform: uppercase;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.player-header {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  width: min(100%, 1100px);
+  min-height: 42px;
+  margin: 0 0 12px;
+  position: relative;
+  z-index: 11;
+}
+
+.player-panel .video-section {
+  position: relative;
+  width: min(100%, 1100px);
+  height: calc(100vh - 120px);
+  max-height: calc(100vh - 120px);
+  min-height: 260px;
+  margin: 0 auto;
+  overflow: hidden;
+  background: #000;
+  border-radius: 12px;
+}
+
+.player-panel #player,
+.player-panel .video-js {
+  position: absolute !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+}
+
+.player-panel .video-js .vjs-tech {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.player-panel .video-js .vjs-control-bar {
+  position: absolute !important;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  top: auto !important;
+  width: 100% !important;
+  z-index: 20 !important;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.08) 0%,
+    rgba(0, 0, 0, 0.85) 100%
+  ) !important;
+}
+
+.video-js {
+  width: 100% !important;
+  height: 100% !important;
+}
+
 @keyframes playerOpen {
   from {
     opacity: 0;
@@ -625,29 +697,12 @@ span {
   }
 }
 
+/*
 @media (max-width: 576px) {
   .player-panel.is-open {
     padding: 0px;
   }
 
-/*
-  .player-header {
-    padding: 8px;
-    margin-bottom: 8px;
-    flex-direction: row;
-    align-items: center;
-    gap: 8px;
-  }
-  .now-playing {
-    max-width: 55%;
-    flex: 1;
-    font-size: 14px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
-*/
-  
   .player-panel .video-section {
     border-radius: 0px;
   }
@@ -657,6 +712,7 @@ span {
   width: 100% !important;
   height: 100% !important;
 }
+*/
 
 /*
 .video-js .vjs-big-play-button {
