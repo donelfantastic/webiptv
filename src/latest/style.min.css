@@ -521,6 +521,7 @@ span {
   min-height: 42px;
   margin-bottom: 12px;
 }
+
 /*
 .btn {
   background: transparent;
@@ -533,11 +534,11 @@ span {
   justify-content: center;
   transition: transform 0.2s ease;
 }
-
 .btn:hover {
   transform: scale(1.15);
 }
 */
+
 .now-playing {
   max-width: 70%;
   overflow: hidden;
@@ -549,6 +550,7 @@ span {
   white-space: nowrap;
 }
 
+/*
 .player-panel .video-section {
   position: relative;
   width: min(100%, 1100px);
@@ -560,11 +562,11 @@ span {
   overflow: hidden;
   background: #000;
 }
-
 .player-panel .video-responsive {
   aspect-ratio: 16 / 9;
   padding-bottom: 0;
 }
+*/
 
 .player-panel #player,
 .player-panel .video-js {
@@ -609,7 +611,7 @@ span {
   .player-panel.is-open {
     padding: 0px;
   }
-
+/*
   .player-header {
     padding: 8px;
     margin-bottom: 8px;
@@ -617,7 +619,6 @@ span {
     align-items: center;
     gap: 8px;
   }
-
   .now-playing {
     max-width: 55%;
     flex: 1;
@@ -626,7 +627,7 @@ span {
     text-overflow: ellipsis;
     white-space: nowrap;
   }
-
+*/
   .player-panel .video-section {
     border-radius: 0px;
   }
@@ -636,6 +637,7 @@ span {
   width: 100% !important;
   height: 100% !important;
 }
+
 /*
 .video-js .vjs-big-play-button {
   top: 50%;
@@ -652,6 +654,7 @@ span {
   background: #7d20ff;
 }
 */
+
 @keyframes playerSlideIn {
   from {
     opacity: 0;
@@ -782,7 +785,6 @@ span {
   line-height: 1.25;
   text-overflow: ellipsis;
   white-space: normal;
-
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
 }
