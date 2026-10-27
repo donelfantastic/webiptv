@@ -534,6 +534,7 @@ span {
   justify-content: center;
   transition: transform 0.2s ease;
 }
+
 .btn:hover {
   transform: scale(1.15);
 }
@@ -543,8 +544,8 @@ span {
   max-width: 70%;
   overflow: hidden;
   text-transform: uppercase;
-  color: #ffffff;
-  font-size: 16px;
+  color: white;
+  font-size: 15px;
   font-weight: 600;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -559,15 +560,13 @@ span {
   margin: auto;
   padding: 0;
   overflow: hidden;
-  //border-radius: 12px;
   background: #000;
 }
-/*
+
 .player-panel .video-responsive {
   aspect-ratio: 16 / 9;
   padding-bottom: 0;
 }
-*/
 
 .player-panel #player,
 .player-panel .video-js {
@@ -582,7 +581,6 @@ span {
   height: 100%;
   object-fit: contain;
 }
-
 /*
 .player-panel .video-js .vjs-big-play-button {
   top: 50%;
@@ -599,7 +597,6 @@ span {
   background: #7d20ff;
 }
 */
-
 @keyframes playerOpen {
   from {
     opacity: 0;
@@ -614,20 +611,17 @@ span {
   .player-panel.is-open {
     padding: 0px;
   }
-
-  @keyframes blink {
-    0%,
-    100% {
-      opacity: 1;
-    }
-    50% {
-      opacity: 0;
-    }
+/*
+  .player-header {
+    padding: 8px;
+    margin-bottom: 8px;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
   }
-  
-  /*
+
   .now-playing {
-    max-width: 100%;
+    max-width: 55%;
     flex: 1;
     font-size: 14px;
     overflow: hidden;
@@ -635,7 +629,6 @@ span {
     white-space: nowrap;
   }
 */
-  
   .player-panel .video-section {
     border-radius: 0px;
   }
@@ -645,11 +638,22 @@ span {
   width: 100% !important;
   height: 100% !important;
 }
-
-.video-js .vjs-loading-spinner {
-  border-color: rgba(107, 0, 255, 0.79);
+/*
+.video-js .vjs-big-play-button {
+  top: 50%;
+  left: 50%;
+  width: 70px;
+  height: 70px;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(107, 0, 255, 0.9);
+  transform: translate(-50%, -50%);
 }
 
+.video-js:hover .vjs-big-play-button {
+  background: #7d20ff;
+}
+*/
 @keyframes playerSlideIn {
   from {
     opacity: 0;
@@ -666,11 +670,10 @@ span {
   .player-header {
     align-items: flex-start;
     flex-direction: column;
-    padding: 8px;
-    margin-bottom: 8px;
-    flex-direction: row;
-    align-items: center;
-    gap: 8px;
+  }
+
+  .now-playing {
+    max-width: 100%;
   }
 }
 
@@ -710,12 +713,12 @@ span {
   position: relative;
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 10px;
   width: 100%;
   min-height: 92px;
   padding: 10px;
   border: 2px solid transparent;
-  border-radius: 8px;
+  border-radius: 10px;
   background: #292323;
   color: #fff;
   cursor: pointer;
@@ -781,6 +784,7 @@ span {
   line-height: 1.25;
   text-overflow: ellipsis;
   white-space: normal;
+
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
 }
@@ -792,12 +796,17 @@ span {
   font-size: 10px;
 }
 
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
 .channel-playing {
   position: absolute;
   top: 6px;
   right: 8px;
   color: #fff;
-  font-size: 10px;
+  font-size: 11px;
   font-weight: bold;
   animation: blink 1s infinite;
 }
