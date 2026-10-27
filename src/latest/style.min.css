@@ -697,6 +697,19 @@ span {
   }
 }
 
+@media (max-width: 576px) {
+  .player-header {
+    width: 100%;
+    padding: 8px;
+  }
+
+  .player-panel .video-section {
+    height: calc(100vh - 110px);
+    min-height: 220px;
+    border-radius: 0;
+  }
+}
+
 /*
 @media (max-width: 576px) {
   .player-panel.is-open {
