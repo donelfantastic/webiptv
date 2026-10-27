@@ -565,7 +565,7 @@ span {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-/*
+
 .player-panel .video-section {
   position: relative;
   width: min(100%, 1100px);
@@ -582,7 +582,7 @@ span {
   aspect-ratio: 16 / 9;
   padding-bottom: 0;
 }
-*/
+
 .player-panel #player,
 .player-panel .video-js {
   position: absolute;
@@ -590,13 +590,13 @@ span {
   width: 100% !important;
   height: 100% !important;
 }
-
+/*
 .player-panel .video-js .vjs-tech {
   width: 100%;
   height: 100%;
   object-fit: contain;
 }
-
+*/
 /*
 .player-panel .video-js .vjs-big-play-button {
   top: 50%;
