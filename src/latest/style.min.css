@@ -522,6 +522,21 @@ span {
   margin-bottom: 12px;
 }
 
+#backButton {
+  width: 48px;
+  height: 42px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
 /*
 .btn {
   background: transparent;
