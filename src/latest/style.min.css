@@ -566,7 +566,6 @@ span {
   white-space: nowrap;
 }
 
-/*
 .player-panel .video-section {
   position: relative;
   width: min(100%, 1100px);
@@ -583,7 +582,6 @@ span {
   aspect-ratio: 16 / 9;
   padding-bottom: 0;
 }
-*/
 
 .player-panel #player,
 .player-panel .video-js {
