@@ -543,8 +543,8 @@ span {
   max-width: 70%;
   overflow: hidden;
   text-transform: uppercase;
-  color: white;
-  font-size: 15px;
+  color: #ffffff;
+  font-size: 16px;
   font-weight: 600;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -560,8 +560,10 @@ span {
   margin: auto;
   padding: 0;
   overflow: hidden;
+  //border-radius: 12px;
   background: #000;
 }
+
 .player-panel .video-responsive {
   aspect-ratio: 16 / 9;
   padding-bottom: 0;
@@ -581,6 +583,7 @@ span {
   height: 100%;
   object-fit: contain;
 }
+
 /*
 .player-panel .video-js .vjs-big-play-button {
   top: 50%;
@@ -597,6 +600,7 @@ span {
   background: #7d20ff;
 }
 */
+
 @keyframes playerOpen {
   from {
     opacity: 0;
@@ -611,16 +615,20 @@ span {
   .player-panel.is-open {
     padding: 0px;
   }
-/*
-  .player-header {
-    padding: 8px;
-    margin-bottom: 8px;
-    flex-direction: row;
-    align-items: center;
-    gap: 8px;
+
+  @keyframes blink {
+    0%,
+    100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
   }
+  
+  /*
   .now-playing {
-    max-width: 55%;
+    max-width: 100%;
     flex: 1;
     font-size: 14px;
     overflow: hidden;
@@ -628,6 +636,7 @@ span {
     white-space: nowrap;
   }
 */
+  
   .player-panel .video-section {
     border-radius: 0px;
   }
@@ -638,22 +647,9 @@ span {
   height: 100% !important;
 }
 
-/*
-.video-js .vjs-big-play-button {
-  top: 50%;
-  left: 50%;
-  width: 70px;
-  height: 70px;
-  border: 0;
-  border-radius: 50%;
-  background: rgba(107, 0, 255, 0.9);
-  transform: translate(-50%, -50%);
+.video-js .vjs-loading-spinner {
+  border-color: rgba(107, 0, 255, 0.79);
 }
-
-.video-js:hover .vjs-big-play-button {
-  background: #7d20ff;
-}
-*/
 
 @keyframes playerSlideIn {
   from {
@@ -671,10 +667,11 @@ span {
   .player-header {
     align-items: flex-start;
     flex-direction: column;
-  }
-
-  .now-playing {
-    max-width: 100%;
+    padding: 8px;
+    margin-bottom: 8px;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
   }
 }
 
@@ -714,12 +711,12 @@ span {
   position: relative;
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   width: 100%;
   min-height: 92px;
   padding: 10px;
   border: 2px solid transparent;
-  border-radius: 10px;
+  border-radius: 8px;
   background: #292323;
   color: #fff;
   cursor: pointer;
@@ -796,17 +793,12 @@ span {
   font-size: 10px;
 }
 
-@keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
-}
-
 .channel-playing {
   position: absolute;
   top: 6px;
   right: 8px;
   color: #fff;
-  font-size: 11px;
+  font-size: 10px;
   font-weight: bold;
   animation: blink 1s infinite;
 }
