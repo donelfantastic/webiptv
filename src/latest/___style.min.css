@@ -561,14 +561,14 @@ span {
   padding: 0;
   overflow: hidden;
   background: #000;
-  border-radius: 12px;
+  /*border-radius: 12px;*/
 }
-/*
+
 .player-panel .video-responsive {
   aspect-ratio: 16 / 9;
   padding-bottom: 0;
 }
-*/
+
 .player-panel #player,
 .player-panel .video-js {
   position: relative !important;
