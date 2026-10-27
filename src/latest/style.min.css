@@ -566,19 +566,17 @@ span {
   white-space: nowrap;
 }
 
-/*
 .player-panel .video-section {
   position: relative;
   width: min(100%, 1100px);
-  aspect-ratio: 16 / 9;
+  /*aspect-ratio: 16 / 9;
   height: auto;
   min-height: 0;
   margin: auto;
-  padding: 0;
+  padding: 0;*/
   overflow: hidden;
   background: #000;
 }
-*/
 
 .player-panel .video-responsive {
   aspect-ratio: 16 / 9;
