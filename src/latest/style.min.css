@@ -511,6 +511,7 @@ span {
   margin: 0 auto 12px;
 }
 
+/*
 .player-header {
   display: flex;
   align-items: center;
@@ -520,6 +521,20 @@ span {
   width: 100%;
   min-height: 42px;
   margin-bottom: 12px;
+}
+*/
+
+.player-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 20px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.8) 0%, transparent 100%);
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
 #backButton {
